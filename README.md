@@ -1,7 +1,7 @@
 # guessing_game
 Computer guesses a user number (algorithm training)
 
-Exercise from Bjarne Stroustrup's book Programming, Principles and Practice Using C++:
+Exercise from Bjarne Stroustrup's book: Programming, Principles and Practice Using C++
 
 Write a program to play a numbers guessing game. The user thinks of a
 number between 1 and 100 and your program asks questions to figure out
